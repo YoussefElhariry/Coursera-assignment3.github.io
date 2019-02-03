@@ -1,0 +1,69 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #7289da;
+}
+h1{
+	text-align: center;
+}
+p {
+	padding: 10px;
+	margin: 5px;
+    
+
+}
+
+#chicken {
+	border: 2px solid ;
+	height: auto;
+	width: 100%;
+	padding: 15px;
+	float: left;
+	
+	position: relative;
+	
+	background-color: #ffc300;
+
+}
+#beaf {
+	border: 2px solid ;
+	height: auto;
+	width: 100%;
+	padding: 15px;
+	float: left;
+	
+	position: relative;
+	overflow: auto;
+	background-color: #ffc300;
+}
+#sushi {
+	border: 2px solid ;
+	height: auto;
+	width: 100%;
+	padding: 15px;
+	float: left;
+	
+	position: relative;
+	overflow: auto;
+	background-color: #ffc300;
+}
+div{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+}
+
+#hhh{
+	text-shadow: transparent;
+	
+	font-weight: bold;
+}
